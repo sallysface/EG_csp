@@ -17,4 +17,4 @@ print (single_digit)
     # Varible_name = input("ask a question")
 fav_num = input('What is your favorite number')
 #How many things can be put into the same print statement?
-    #wouldn't you like to know weatherboy
+    #as many as you want
