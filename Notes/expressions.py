@@ -24,17 +24,25 @@ average=age1 + age2 + age3 + age4
 total = average/4
 print ("the average age of this group is",total )
 #List all of the different mathmatical operations
-num1=12
-num2=7
+num1= int(input('Tell me a number\n'))
+num2= float(input ('Tell me another number\n'))
+num1 += num2
+print ("addition(+):", num1)
+num1 -= num2
+print ("subtraction(-):", num1)
+num1 *= num2
+print ("Multiplication(*):", num1)
+num1 /= num2
+print ("Division(/):", round(num1, 2)) #keyword round (number to round, number or decimal places)
+num1 **= num2
+print ("Exponents(**):", num1)
+num1 //= num2
+print ("Integer division(//):", num1)
+num1 %= num2
+print ("Modulo(%):", num1)
 
-print ("addition(+):", num1+num2)
-print ("subtraction(-):", num1-num2)
-print ("Multiplication(*):", num1*num2)
-print ("Division(/):", num1/num2)
-print ("Exponents(**):", num1**num2)
-print ("Integer division(//):", num1//num2)
-print ("Modulo(%):", num1%num2)
 #integer division only gives you the whole integer
 
 #List all of the diferent assignment operators
+    # An assignment operator is just the equal sign, but you can add math sign to make it easier because we are lazy
 #Why are expressions so important in coding?
