@@ -1,6 +1,7 @@
 #EG 7th strings notes
 
 
+
 #What makes something a string?
     #letters or numbers held together with quotation marks
 name = input("What yo name?: \n").strip().title()
@@ -9,6 +10,7 @@ freak = name + " " + sentence
 print ("welcom", freak)
 #Why do we have strings?
 
+#sanatization and stupid proofing
 #How do stupid proofing and sanitization relate to each other?
 #What is debugging?
 #How do you debug the different types of errors?
@@ -17,5 +19,8 @@ print ("welcom", freak)
 #concatenate (add)
     # puts the strings together
 #upper()
+    # makes all letters uppercase
 #lower()
-#strip()                    
+    #makes all letters lowercase
+#strip()
+    # removes all spaces before and after the answer
