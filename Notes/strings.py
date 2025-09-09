@@ -13,6 +13,7 @@ print ("welcom", freak)
 #sanatization and stupid proofing
 #How do stupid proofing and sanitization relate to each other?
 #What is debugging?
+    #debugging is fixing code
 #How do you debug the different types of errors?
 #Describe what each of the methods below does:
 #find()
@@ -24,3 +25,4 @@ print ("welcom", freak)
     #makes all letters lowercase
 #strip()
     # removes all spaces before and after the answer
+ 
