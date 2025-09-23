@@ -3,7 +3,6 @@
 foods = ["chocolate", "pasta", "appy cider"]
 
 #for loop
-#loops repeat the code inside for a specified amount of time
 for food in foods:
     print(f'{food} is my favorite food')
 
@@ -18,7 +17,6 @@ i = 1
 while i >= 20:
     print(i)
     i+=1
-#iteration is 1 loop of the same code
 x=1
 while x < 21:
     if x % 2 == 0:
@@ -35,3 +33,17 @@ while True:
     else:
         print('duck')
         d+=1
+#What is a loop?
+#loops repeat the code inside for a specified amount of time 
+#What are the two types of loops?
+#Forloop and while loop
+#What is iteration
+#iteration is 1 loop of the same code
+#What are lists? 
+#Strings of multiple items that can be independently accsessed 
+#How do you make lists in python? 
+# plural word = ["item one", "item two", "etc"]
+#How do you make for loops in python? 
+#make a list; for blank in blanks: do ___
+#How do you make while loops in python?
+#set int varible; while x _ num: do __
