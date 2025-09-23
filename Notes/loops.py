@@ -26,13 +26,13 @@ while x < 21:
     print(x)
     x+=1
 d = 1
-while True:
+'''while True:
     if d == end:
         print("Goose")
         break
     else:
         print('duck')
-        d+=1
+        d+=1'''
 #What is a loop?
 #loops repeat the code inside for a specified amount of time 
 #What are the two types of loops?
