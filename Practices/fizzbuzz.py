@@ -1,7 +1,7 @@
 #EG 7th fizzbuzz
 
 x = 1
-while x <= 20:
+while x <= 50:
       if x % 3 == 0 and x % 5 == 0:
             print("FizzBuzz")
       elif x % 3 == 0:
