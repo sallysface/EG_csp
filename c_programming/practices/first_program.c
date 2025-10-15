@@ -8,10 +8,5 @@ int main(void){
 
     printf("Hello, %s, welcome to your first c program! \n", name);
 
-
-
-
-
-
-
+    return 0;
 }
